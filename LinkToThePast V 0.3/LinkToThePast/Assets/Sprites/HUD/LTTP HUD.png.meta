@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: e1b9d9a334f2d58499e547ce5d8736f5
+timeCreated: 1489968224
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LTTP HUD_5
+    21300002: LTTP HUD_6
+    21300004: LTTP HUD_7
+    21300006: LTTP HUD_8
+    21300008: LTTP HUD_9
+    21300010: LTTP HUD_10
+    21300012: LTTP HUD_11
+    21300014: 0
+    21300016: 1
+    21300018: 2
+    21300020: 3
+    21300022: 4
+    21300024: LTTP HUD_17
+    21300026: LTTP HUD_18
+    21300028: LTTP HUD_19
+    21300030: LTTP HUD_20
+    21300032: 5
+    21300034: 6
+    21300036: 7
+    21300038: 8
+    21300040: 9
+    21300042: LTTP HUD_35
+    21300044: LTTP HUD_36
+    21300046: LTTP HUD_37
+    21300048: LTTP HUD_38
+    21300050: LTTP HUD_39
+    21300052: LTTP HUD_40
+    21300054: LTTP HUD_41
+    21300056: LTTP HUD_42
+    21300058: LTTP HUD_43
+    21300060: LTTP HUD_44
+    21300062: LTTP HUD_45
+    21300064: LTTP HUD_46
+    21300066: LTTP HUD_47
+    21300068: LTTP HUD_48
+    21300070: LTTP HUD_49
+    21300072: LTTP HUD_50
+    21300074: LTTP HUD_51
+    21300076: LTTP HUD_52
+    21300078: LTTP HUD_53
+    21300080: LTTP HUD_54
+    21300082: LTTP HUD_57
+    21300084: LTTP HUD_58
+    21300086: LTTP HUD_61
+    21300088: LTTP HUD_62
+    21300090: LTTP HUD_63
+    21300092: LTTP HUD_64
+    21300094: LTTP HUD_65
+    21300096: LTTP HUD_66
+    21300098: LTTP HUD_67
+    21300100: LTTP HUD_0
+    21300102: LTTP HUD_1
+    21300104: LTTP HUD_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LTTP HUD_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 277
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 278
+        width: 44
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 280
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 280
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 280
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 280
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 280
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 258
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 269
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 269
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_20
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 269
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 272
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 272
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 272
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 272
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 272
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_35
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 227
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 210
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_42
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 142
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_50
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_53
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 74
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_62
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_66
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_67
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 6
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 258
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 255
+        width: 8
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LTTP HUD_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

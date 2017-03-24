@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Boomerang : BaseItem
+{
+  public override void ExecuteItem()
+  {
+    
+  }
+
+
+}
