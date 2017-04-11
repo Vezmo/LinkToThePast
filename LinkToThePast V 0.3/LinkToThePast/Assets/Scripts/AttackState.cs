@@ -6,7 +6,7 @@ public class AttackState : BaseState
 {
   private float attackduration;
   private bool isAnimated;
-
+// oli tu suces en criss
 
   public AttackState()
   {
